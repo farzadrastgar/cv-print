@@ -8,3 +8,5 @@ with open("./data/cv.json") as f:
 
 doc.render(context)
 doc.save("./data/output_cv.docx")
+
+
